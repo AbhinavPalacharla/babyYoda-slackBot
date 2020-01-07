@@ -1,1 +1,1 @@
-baby yoda meme bot!
+A fun meme bot for my APCS class slack
